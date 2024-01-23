@@ -69,3 +69,20 @@ def n_høyeste_alt(liste:list[int], n: int):
 print(n_høyeste_alt([2,6,-10,100,95], 3))
 
 # Algoritme 4.2: 
+
+# Algoritme 5:
+
+personer = [
+   {
+      "navn": "Thor",
+      "alder": 33
+   },
+   {
+      "navn": "Ravi",
+      "alder": 39
+   }
+]
+
+sortert_personer = sorted(personer, key=lambda person:person["alder"], reverse=True)
+topp_2 = sortert_personer[:2]
+print(topp_2)
