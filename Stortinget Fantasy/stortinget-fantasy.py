@@ -22,4 +22,4 @@ while True:
         print("Avslutter..")
         break # bryter ut av while-løkken
     else:
-        print("Ugyldig valg")
+        print("Ugyldig valg") 
