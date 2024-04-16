@@ -3,7 +3,9 @@ from spiller import Spiller
 from quizmaster import Quizmaster
 from quiz import Quiz
 
- 
+
+
+# 1. Oppsett
 pygame.init()
 BREDDE = 600
 HOYDE = 600
@@ -19,6 +21,9 @@ spiller = Spiller("bilder/spiller.png", 0.1, 5, BREDDE, HOYDE)
  
  
 while True:
+
+    # 2. Håndter input
+
     for hendelse in pygame.event.get():
         if hendelse.type == pygame.QUIT:
             pygame.quit()
@@ -35,7 +40,14 @@ while True:
                 spiller.flytt(0, 1)
 
 
+    # 3. Oppdater spill
 
-        
+
+
+
+    # 4. Tegn
+
+        spiller.tegn(vindu)  
+
         pygame.display.flip()
         klokke.tick(FPS)
