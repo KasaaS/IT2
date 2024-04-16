@@ -6,12 +6,9 @@ class Spiller(Figur):
         super().__init__(bildesti, størrelse)
 
 
-        self.ramme.centerx = 393     # Setter spilleren i startposisjon
-        self.ramme.bottom = 435
-
+        self.ramme.centerx = 50    # Setter spilleren i startposisjon
+        self.ramme.bottom = 50
         self.ramme_collide = self.bilde.get_rect()
-        self.ramme_collide.height = self.ramme_collide.height/2
-        self.ramme_collide.bottom = self.ramme.bottom
 
         self.liv = 3
 
