@@ -17,3 +17,6 @@ class Spillobjekt:
 
         # move_ip = move in place. Denne vi bør bruke.
         self.rect.move_ip(dx, dy)
+
+    def tegn(self, surface: pygame.Surface):
+        surface.blit(self.surface, self.rect)

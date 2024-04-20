@@ -11,7 +11,7 @@ from sau import Sau
  
 # Oppsett av pygame
 pygame.init()
-BREDDE = 600 # bredde på vinduet
+BREDDE = 800 # bredde på vinduet
 HOYDE = 600  # høyde på vinduet
 vindu = pygame.display.set_mode((BREDDE, HOYDE))
 klokke = pygame.time.Clock()

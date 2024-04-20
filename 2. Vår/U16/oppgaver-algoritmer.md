@@ -1,13 +1,13 @@
-# Oppgave 1-8
+# Oppgaver 2...
 
-## Oppgave 1
+## Oppgave 2.7
 
 - [] en løkke som kjører et bestemt antall ganger
 - [] en løkke som kjører til en bestemt hendelse intreffer
 - [x] en løkke som kjører så lenge en bestemt betingelse er sann
 - [] en løkke som kjører så lenge en tilfeldig betingelse er sann
 
-## Oppgave 2
+## Oppgave 2.8
 
 - [] en for-løkke kan bare brukes med tallsekvenser
 - [] en while-løkke kjører alltid et bestemt antall ganger
@@ -21,32 +21,28 @@
 - [x] å representere data og funksjoner som objekter
 - [] å minimere bruken av variabler
 
-## Oppgave 4
+## Oppgave 2.1
 
 - [] den har uformell syntaks.
 - [] den ligner på vanlig menneskespråk.
 - [] den kan kjøres direkte på en datamaskin.
 - [x] den brukes ofte i planleggingsfasen av programmering.
 
-## Oppgave 5
+## Oppgave 2.2
 
 - [] tre ganger
 - [] to ganger
 - [] én gang
 - [x] ingen ganger
 
-## Oppgave 6
+## Oppgave 2.3
 
 - [x] 1
 - [] 2
 - [x] 3
 - [] 4
 
-## Oppgave 7
-
-![Oppgave 7](../Oppgaver%209.%20Jan/flowchart%20oppg%207.png)
-
-## Oppgave 8
+## Oppgave 2.4
 
 ```python
 def trekantall(n):
@@ -60,14 +56,19 @@ Bruk forrgie funksjon også setter du inn i en forløkke
 
 ```
 
-## Oppgave 9
+## Oppgave 2.5
+
+![Oppgave 7](../Oppgaver%209.%20Jan/flowchart%20oppg%207.png)
+
+
+## Oppgave 2.6
 
 - [x] 1
 - [] 2
 - [] 3
 - [] 4
 
-## Oppgave 10
+## Oppgave 2.12
 
 1-F
 2-H
@@ -79,7 +80,7 @@ Bruk forrgie funksjon også setter du inn i en forløkke
 8-D
 
 
-## Oppgave 11
+## Oppgave 2.13
 
 - [] 1
 - [x] 2
