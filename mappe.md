@@ -7,15 +7,18 @@
 - Gjør oppgave [2.1 - 2.4 (pseudokode)](https://it2.thorcc.no/databehandling-og-algoritmer/pseudokode#oppgaver)
 - Gjør oppgave [2.12 - 2.14 (algoritmer)](https://it2.thorcc.no/databehandling-og-algoritmer/algoritmer#oppgaver)
 
-TODO Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering  
+TODO Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering 
+
 DONE Ha en presentasjon der du forklarer en _avansert_ kode
-TODO Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
+DONE Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
+[https://github.com/KasaaS/IT2/blob/master/2.%20V%C3%A5r/U16/oppgaver-algoritmer.md](https://github.com/KasaaS/IT2/blob/master/2.%20V%C3%A5r/U16/oppgaver-algoritmer.md)
 
 ### Gjenbrukbar kode
 
 - Dokumenter deler av koden som hører til et prosjekt med _docstrings_
 
-TODO: Lim inn lenke til kode som er dokumentert med docstrings
+DONE: Lim inn lenke til kode som er dokumentert med docstrings
+[https://github.com/KasaaS/IT2/blob/master/2.%20V%C3%A5r/U26/dokumentasjon.ipynb](https://github.com/KasaaS/IT2/blob/master/2.%20V%C3%A5r/U26/dokumentasjon.ipynb)
 
 ### Innhente, analysere og presentere data
 
@@ -53,7 +56,7 @@ DONE Lim inn lenke til besvarelser på github
 
 - Ha en presentasjon der du vurderer brukervennlighet i et spill/applikasjon og foreslår hensiktsmessige forbedringer
 
-TODO Hold presentasjon der du presenterer ett eller flere prosjekter
+DONE Hold presentasjon der du presenterer ett eller flere prosjekter
 
 ## Problemløsning
 
@@ -71,7 +74,7 @@ TODO Lim inn lenke til github-repository (side på github) med relevant kode
 
 - Ha en presentasjon der du begrunner valg som er gjort i et prosjekt og vurderer alternative løsninger
 
-TODO Hold presentasjon der du presnterer ett eller flere prosjekter
+DONE Hold presentasjon der du presnterer ett eller flere prosjekter
 
 ### Objektorienterte programmer med klasser, arv og objekter
 
@@ -91,7 +94,8 @@ DONE Lever oppgave på Teams
 
 - Gjør oppgave [2.15 - 2.17 (filhåndtering)](https://it2.thorcc.no/databehandling-og-algoritmer/filhandtering#oppgaver)
 
-TODO Lim inn lenke til oppgavebesvarelser på github.
+DONE Lim inn lenke til oppgavebesvarelser på github.
+[https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/Lekser/U17%20Lekse](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/Lekser/U17%20Lekse)
 
 ### Brukervennlighet i informasjonssystemer
 

@@ -1,15 +1,21 @@
 [
     {
-        "username": "elonmusk",
-        "tweets": 42318,
-        "followers": 180483638,
-        "following": 574
+        "username": "rihanna",
+        "tweets": 10718,
+        "followers": 107958168,
+        "following": 969
     },
     {
         "username": "BarackObama",
         "tweets": 17016,
         "followers": 131876712,
         "following": 543020
+    },
+    {
+        "username": "elonmusk",
+        "tweets": 42318,
+        "followers": 180483638,
+        "following": 574
     },
     {
         "username": "Cristiano",
@@ -22,12 +28,6 @@
         "tweets": 31176,
         "followers": 110939914,
         "following": 274131
-    },
-    {
-        "username": "rihanna",
-        "tweets": 10718,
-        "followers": 107958168,
-        "following": 969
     },
     {
         "username": "katyperry",

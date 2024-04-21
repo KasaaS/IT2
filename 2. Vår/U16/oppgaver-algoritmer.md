@@ -86,3 +86,12 @@ Bruk forrgie funksjon også setter du inn i en forløkke
 - [x] 2
 - [] 3
 - [x] 4
+
+
+
+## Oppgave 2.13
+
+- [] 
+- [] 
+- [] 
+- [x] [ 2, 5, 6, 8, 12]
