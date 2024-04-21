@@ -25,7 +25,8 @@ DONE: Lim inn lenke til kode som er dokumentert med docstrings
 - Gjør oppgave [3.1 - 3.12 (Pokemon-oppgaver)](https://it2.thorcc.no/apputvikling/oppgaver)
 - Gjør oppgave [2.20 (youtube) eller 2.21 (google play store)](https://it2.thorcc.no/databehandling-og-algoritmer/storre-oppgaver)
 
-TODO Gjør oppgave 2.20 eller 2.21 som øving til tentamen  
+DONE Gjør oppgave 2.20 eller 2.21 som øving til tentamen
+[https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U28%20-%20%C3%B8ving%20tentamen/2.20-2.21](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U28%20-%20%C3%B8ving%20tentamen/2.20-2.21)  
 
 DONE Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
 [https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/Lekser/U23%20Lekse/pokemon](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/Lekser/U23%20Lekse/pokemon)
