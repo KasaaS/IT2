@@ -55,8 +55,8 @@ while kjorer:
         spillebrett.aktiver_ball(HOYDE, BREDDE)
         spillebrett.aktiver_boosters()
 
-    spillebrett.tid_siden_forrige_nye_ball += 1
-    spillebrett.tid_mellom_booster += 1
+        spillebrett.tid_siden_forrige_nye_ball += 1
+        spillebrett.tid_mellom_booster += 1
 
 
     # Tegn på skjermen her: spiller kun når du har trykket på startknappen.

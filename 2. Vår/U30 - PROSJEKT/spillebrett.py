@@ -50,14 +50,22 @@ class Spillebrett:
 
     # Funksjon for å flytte spillere
     def spiller_input(self, taster):
+        # For spiller 2. -> sjekker om toppen er i toppen av vindu
+        # Om ja, stopper den å bevege seg utenfor.
         if taster[pygame.K_UP]:
-            self.spiller2.flytt_opp()
+            if self.spiller2.rect.top > 0:
+                self.spiller2.flytt_opp()
         if taster[pygame.K_DOWN]:
-            self.spiller2.flytt_ned()
+            if self.spiller2.rect.bottom < self.hoyde:
+                self.spiller2.flytt_ned()
+
+        # For spiller 1. 
         if taster[pygame.K_w]:
-            self.spiller1.flytt_opp()
+            if self.spiller1.rect.top > 0:
+                self.spiller1.flytt_opp()
         if taster[pygame.K_s]:
-            self.spiller1.flytt_ned()
+            if self.spiller1.rect.bottom < self.hoyde:
+                self.spiller1.flytt_ned()
         
     # Funksjon for å flytte hindere
     def flytt_hinder(self, hoyde: int):
