@@ -7,11 +7,12 @@
 - Gjør oppgave [2.1 - 2.4 (pseudokode)](https://it2.thorcc.no/databehandling-og-algoritmer/pseudokode#oppgaver)
 - Gjør oppgave [2.12 - 2.14 (algoritmer)](https://it2.thorcc.no/databehandling-og-algoritmer/algoritmer#oppgaver)
 
-TODO Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering 
-
+DONE Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering
+[https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT)
 DONE Ha en presentasjon der du forklarer en _avansert_ kode
 DONE Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
 [https://github.com/KasaaS/IT2/blob/master/2.%20V%C3%A5r/U16/oppgaver-algoritmer.md](https://github.com/KasaaS/IT2/blob/master/2.%20V%C3%A5r/U16/oppgaver-algoritmer.md)
+
 
 ### Gjenbrukbar kode
 
@@ -69,7 +70,8 @@ DONE Hold presentasjon der du presenterer ett eller flere prosjekter
     - en interaktiv app i terminalen
     - en web-applikasjon laget med Flask
 
-TODO Lim inn lenke til github-repository (side på github) med relevant kode
+DONE Lim inn lenke til github-repository (side på github) med relevant kode
+[https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT)
 
 ### Alternative løsninger
 
@@ -81,7 +83,8 @@ DONE Hold presentasjon der du presnterer ett eller flere prosjekter
 
 - Lag et større objektorientert system som inneholder klasser, arv og objekter
 
-TODO Lim inn lenke til github-repository (side på github) med relevant kode
+DONE Lim inn lenke til github-repository (side på github) med relevant kode
+[https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT)
 
 ## Samfunn og systemer
 
@@ -106,20 +109,26 @@ DONE Lim inn lenke til oppgavebesvarelser på github.
 
 #### Mine tilbakemeldinger
 
-TODO Skriv minst tre tilbakemeldinger her
-
-#### Eksempler på tilbakemeldinger
 
 ##### Tilbakemelding #1
 
-**Prosjekt:** [Nettsted: https://ai-foodr.netlify.app](https://ai-foodr.netlify.app/) / [Kode: https://github.com/thorcc/oppskriftsgeneratoren-open-ai](https://github.com/thorcc/oppskriftsgeneratoren-open-ai)  
-**Bruker:** Kvinnelig lærer på 30 år, uten barn, bosatt i Oslo, middels opptatt av mat  
-**Tilbakemelding:** "Det er vanskelig å se at den holder på å generere en oppskrift"  
-**Tiltak:** La til en spinnende mikrobølgeovn som vises mens den appen genererer oppskrifter
+**prosjekt:** [https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT)
+**Bruker:** Gutt som har IT2, Bosatt i lommedalen, opptatt av skole
+**Tilbakemelding** "Spilleren kan flytte seg under vinduet..."
+**Tiltak** Fikset slik at spilleren ikke kan det lenger.
+
 
 ##### Tilbakemelding #2
 
-**Prosjekt:** _Lenke til prosjekt_
-**Bruker:** Gutt 5 år, går i barnehage, bosatt i Kristisansand, veldig glad i mobilspill  
-**Tilbakemelding:** "Spillet er alt for vanskelig"  
-**Tiltak:** Satt ned hastigheten på spillet
+**prosjekt:** [https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT)
+**Bruker:** Lærer, har IT, god veileder!
+**Tilbakemelding** "Gjøre spillet mer avansert, kanskje lage spillebrett?"
+**Tiltak** Laget spillebrett, tilstander, og flere funksjoner.
+
+
+##### Tilbakemelding #3
+
+**Prosjekt:** [https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT)
+**Bruker:** Gutt, har IT, Flink innen informatikk
+**Tilbakemelding:** "Legg til boosters."  
+**Tiltak:** La til boosters.
