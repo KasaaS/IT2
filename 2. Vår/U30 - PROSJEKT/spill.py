@@ -47,7 +47,7 @@ while kjorer:
     # Input fra mus:
     mus_posisjon = pygame.mouse.get_pos()
     mus_klikk = pygame.mouse.get_pressed()
-    menybrett.aktiver_spill(mus_posisjon, mus_klikk)
+    menybrett.aktiver_spill(mus_posisjon, mus_klikk, taster)
  
     # Oppdater spill her:
     if menybrett.spill_aktiv == True:

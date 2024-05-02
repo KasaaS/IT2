@@ -44,6 +44,8 @@ class Spillebrett:
         self.boostere: list[Booster] = []
 
 
+
+
 ## Oppdaterer her
 
     # Funksjon for å flytte spillere
@@ -127,9 +129,10 @@ class Spillebrett:
 
                     self.boostere.remove(booster)
 
+
+
 ## Tegner under her
     
-
     def tegn(self, vindu: pygame.Surface):
         self.surface.fill("black")
         # Tegner spillobjekter før vi tegner vinduet for hele brettet. Tegner spilleren på overflaten til spillbrettet.
