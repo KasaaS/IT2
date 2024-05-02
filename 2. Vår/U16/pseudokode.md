@@ -46,4 +46,3 @@ def penger_tjent(streams):
         return 0
 
 penger_tjent(streams)
-```

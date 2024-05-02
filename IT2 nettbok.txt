@@ -1,0 +1,8 @@
+
+
+git clone https://github.com/thorcc/it2-nettbok trykk enter
+cd it2-nettbok 
+npm install
+npm run dev
+
+

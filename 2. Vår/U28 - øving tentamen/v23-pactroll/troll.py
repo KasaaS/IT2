@@ -10,3 +10,4 @@ class Troll(Figur):
         self.rect.x += self.fart * self.retning[0]
         self.rect.y += self.fart * self.retning[1]
 
+from figur import Figur
