@@ -7,6 +7,7 @@ from hinder import Hinder
 from spiller import Spiller
 from booster import Booster
 
+
 # Starter med spillbrett da den er relevant for spillobjekt.
 class Spillebrett(Figur):
     def __init__(self, hoyde, bredde):

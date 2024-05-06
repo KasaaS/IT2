@@ -1,6 +1,7 @@
+import random
+
 from figur import Figur
 
-import random
 
 class Ball(Figur):
     def __init__(self, x: int, y: int, x_fart: int = None, y_fart: int = None) -> None:

@@ -1,4 +1,5 @@
 import random
+
 from figur import Figur
 
 
