@@ -4,13 +4,21 @@ from figur import Figur
 from knapp import Knapp
 
 
-class Meny(Figur):
+class Meny:
     def __init__(self, hoyde, bredde):
-        super().__init__(bredde/2, hoyde/2, bredde, hoyde, "orange")
+
 
         self.hoyde: int = hoyde
         self.bredde: int = bredde
         self.objekter: list[Figur] = []
+
+        # Må opprette et surface for å så tegne brettet. 
+        # Alle ting i pygame må ha surface og rect.
+        self.surface = pygame.Surface( (self.bredde, self.hoyde) )
+        self.rect = self.surface.get_rect()
+
+        # Plasserer rektangelet til brettet i (x,y) av vinduet.
+        self.rect.topleft = (0,0)
 
         # definerer en font
         self.font = pygame.font.SysFont("Arial", 50)
