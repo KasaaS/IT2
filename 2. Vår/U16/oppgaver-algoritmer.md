@@ -85,7 +85,7 @@ Bruk forrgie funksjon også setter du inn i en forløkke
 
 
 
-## Oppgave 2.13
+## Oppgave 2.14
 
 - [] [ 5, 8, 2, 6, 12 ]
 - [] [ 5, 2, 8, 6, 12 ]
