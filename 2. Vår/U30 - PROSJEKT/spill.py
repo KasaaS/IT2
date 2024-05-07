@@ -49,6 +49,7 @@ while kjorer:
     mus_klikk = pygame.mouse.get_pressed()
     menybrett.aktiver_spill(mus_posisjon, mus_klikk, taster)
  
+ 
     # Oppdater spill her:
     if menybrett.spill_aktiv == True:
         spillebrett.flytt_hinder(HOYDE)

@@ -44,7 +44,8 @@ TODO Lim inn lenker til besvarelse av oppgaver
 
 - Lag UML-diagram for et større objektorientert system
 
-TODO Lim inn lenke til UML-diagram  
+DONE Lim inn lenke til UML-diagram
+[https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT/EKSTRA%20FILER](https://github.com/KasaaS/IT2/tree/master/2.%20V%C3%A5r/U30%20-%20PROSJEKT/EKSTRA%20FILER)
 
 ### Representasjon av programflyt med kontrollstrukturer
 

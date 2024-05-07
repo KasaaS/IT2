@@ -91,7 +91,45 @@ Bruk forrgie funksjon også setter du inn i en forløkke
 
 ## Oppgave 2.13
 
-- [] 
-- [] 
-- [] 
-- [x] [ 2, 5, 6, 8, 12]
+- [] [ 5, 8, 2, 6, 12 ]
+- [] [ 5, 2, 8, 6, 12 ]
+- [x] [ 5, 2, 6, 8, 12 ]
+- [] [ 2, 5, 6, 8, 12]
+
+
+### B
+
+FUNCTION byttPlass(liste, i, j)
+  SET midlertidig TO a[i]
+  SET a[i] TO a[j]
+  set a[j] TO midlertidig 
+ENDFUNCTION
+SET bytta TO TRUE
+WHILE bytta
+  SET bytta TO FALSE
+  SET i TO 0
+  FOR hver i LESSER THAN n - 1
+    IF a[i] GREATER THAN a[i+1]    
+      CALL byttPlass(a, i, i + 1)
+      SET bytta TO TRUE
+    ENDIF
+  ENDFOR
+ENDWHILE
+
+
+### C Koden for pseudokoden
+
+<!-- def bytt_plass(liste, i, j):
+    midlertidig = liste[i]
+    liste[i] = liste[j]
+    liste[j] = midlertidig
+ 
+bytta = True
+while bytta:
+    bytta = False
+    for i in range(len(a) - 1):
+        if a[i] > a[i + 1]:
+            bytt_plass(a, i, i + 1)
+            bytta  = True
+ 
+print(a) -->

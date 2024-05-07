@@ -60,7 +60,9 @@ class Spillebrett(Figur):
         if taster[pygame.K_s]:
             if self.spiller1.rect.bottom < self.hoyde:
                 self.spiller1.flytt_ned()
-        
+
+
+
     # Funksjon for å flytte hindere
     def flytt_hinder(self, hoyde: int):
         for hinder in self.hindere:
@@ -71,6 +73,7 @@ class Spillebrett(Figur):
             
             if hinder.rect.top > hoyde - 50 or hinder.rect.bottom < 0 + 50:
                 hinder.snu_y()
+
 
 
     # Funksjon for å bruke ballen med alle sine egenskaper
@@ -156,7 +159,7 @@ class Spillebrett(Figur):
         poeng_spiller_2 = self.font.render(str(self.spiller1.poeng), True, "white")
         self.surface.blit(poeng_spiller_2, (25, 25))
         poeng_spiller_1 = self.font.render(str(self.spiller2.poeng), True, "white")
-        self.surface.blit(poeng_spiller_1, (self.bredde - 50, 25))        
+        self.surface.blit(poeng_spiller_1, (self.bredde - 60, 25))        
     
         # Tegner spillbrettets surface i posisjonen til spillbrettets rect på vinduet.
         vindu.blit(self.surface, self.rect)
