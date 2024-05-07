@@ -36,7 +36,9 @@ DONE Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
 
 - Gjør oppgave [3.13 - 3.16 (testing)](https://it2.thorcc.no/apputvikling/testing#oppgaver)
 
-TODO Lim inn lenker til besvarelse av oppgaver
+DONE Lim inn lenker til besvarelse av oppgaver
+[https://github.com/KasaaS/IT2/blob/master/2.%20V%C3%A5r/U31%20-%20Mappe%20ferdiggj%C3%B8ring/oppgaver_3.ipynb](https://github.com/KasaaS/IT2/blob/master/2.%20V%C3%A5r/U31%20-%20Mappe%20ferdiggj%C3%B8ring/oppgaver_3.ipynb)
+
 
 ## Modellering og representasjon
 
